@@ -1,3 +1,5 @@
+var a =new String("ef");  
+var b=["abc","ef"];
+var c=b.reverse();
 
-var a =new Int8Array(10);
-console.log(a[2]);
+console.log(c);
