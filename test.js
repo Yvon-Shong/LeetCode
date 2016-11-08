@@ -1,5 +1,4 @@
-var a =new String("ef");  
-var b=["abc","ef"];
-var c=b.reverse();
+var a =3;  
+var b=a>>1;
 
-console.log(c);
+console.log(b);
